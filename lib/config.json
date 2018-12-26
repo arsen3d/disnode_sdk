@@ -42,5 +42,18 @@
 			"accountStatus": "/accounts/",
 			"compileSolidity": "/compile"
 		}
-	}
+	},
+	"devnet": {
+		"seedNode": "35.247.99.111:1975",
+		"apiVersion": "v1",
+		"routes": {
+			"delegateList": "/delegates",
+			"transactionSend": "/transactions",
+			"transactionStatus": "/transactions/",
+			"accountStatus": "/accounts/",
+			"compileSolidity": "/compile"
+		}
+	},
+
+
 }
