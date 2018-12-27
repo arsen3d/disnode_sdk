@@ -53,7 +53,5 @@
 			"accountStatus": "/accounts/",
 			"compileSolidity": "/compile"
 		}
-	},
-
-
+	}
 }
